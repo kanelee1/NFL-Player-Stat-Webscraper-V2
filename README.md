@@ -12,9 +12,9 @@ This project demonstrates a basic approach to scraping data from tables within a
 In console, 'pip install selenium' before running
   
 ## Usage
-- Simply run main.py and the program will create and update individual csv files for interpretation
+Simply run main.py and the program will create and update individual csv files for interpretation
 ## Structure and Components
-- main.py: contains logic to initialize webdriver, scrape each page, and convert to csv
+- main.py: contains logic to initialize webdriver, scrape each page, and create/write to csv
 ## Detailed Functionality
 - scrape_page(): uses webdriver to retrieve URL, parse HTML of each webpage, scrapes table headers/rows/data, appends to 'data' array
 - to_csv(): uses csv writer to create and write data to individual csv files
