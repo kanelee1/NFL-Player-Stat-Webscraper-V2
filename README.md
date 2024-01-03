@@ -29,7 +29,7 @@ Contributions to this project are welcome. Feel free to fork the repository, mak
 - N/A
 ## Acknowledgements
 - Selenium -> https://www.selenium.dev/documentation/
-- YouTube tutorials
+
 ## Contact
 svela002@csusm.edu
 
