@@ -28,6 +28,7 @@ Contributions to this project are welcome. Feel free to fork the repository, mak
 ## License
 - N/A
 ## Acknowledgements
+- FantasyPros -> https://www.fantasypros.com/
 - Selenium -> https://www.selenium.dev/documentation/
 
 ## Contact
