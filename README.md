@@ -12,12 +12,12 @@ This project demonstrates a basic approach to scraping data from tables within a
 - Mac:
 - Linux:
 ## Usage
-- Simply run main.py
+- Simply run main.py and the program will create and update individual csv files for interpretation
 ## Structure and Components
 - main.py: contains logic to initialize webdriver, scrape each page, and convert to csv
 ## Detailed Functionality
 - scrape_page(): uses webdriver to retrieve URL, parse HTML of each webpage, scrapes table headers/rows/data, appends to 'data' array
-- to_csv(): uses csv writer to write data to individual csv files
+- to_csv(): uses csv writer to create and write data to individual csv files
 - main(): for each url and file name in urls map, run scrape_page() and to_csv()  
 
 ## Table Key
