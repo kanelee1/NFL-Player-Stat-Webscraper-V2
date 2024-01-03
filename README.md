@@ -28,7 +28,8 @@ Contributions to this project are welcome. Feel free to fork the repository, mak
 ## License
 - N/A
 ## Acknowledgements
+- Selenium -> https://www.selenium.dev/documentation/
 - YouTube tutorials
 ## Contact
-Message me -> svela002@csusm.edu
+svela002@csusm.edu
 
