@@ -7,10 +7,10 @@ This project demonstrates a basic approach to scraping data from tables within a
 - Uses selenium webdriver (Firefox) to scrape multiple dynamic webpage tables 
 - Creates individual csv files for each NFL player category
 - Adjust 'max_rows' to change the number of rows scraped per table (D/ST only has 32 rows)
+  
 ## Installation
-- Windows: in console, 'pip install selenium' before running
-- Mac:
-- Linux:
+In console, 'pip install selenium' before running
+  
 ## Usage
 - Simply run main.py and the program will create and update individual csv files for interpretation
 ## Structure and Components
