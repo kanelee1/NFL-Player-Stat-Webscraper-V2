@@ -8,7 +8,7 @@ This project demonstrates a basic approach to scraping data from tables within a
 - Creates individual csv files for each NFL player category
 - Adjust 'max_rows' to change the number of rows scraped per table (D/ST only has 32 rows)
 ## Installation
-- Windows: in console, 'pip install selenium' and 'pip install csv' before running
+- Windows: in console, 'pip install selenium' before running
 - Mac:
 - Linux:
 ## Usage
