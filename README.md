@@ -1,7 +1,7 @@
 # NFL-Player-Stat-Webscraper-V2
 
 ## Introduction
-This project demonstrates a basic approach to scraping data from tables within a dynamic webpage using selenium libraries
+This project demonstrates a basic approach to scraping data from tables within a dynamic webpage using selenium libraries in Python
 
 ## Features
 - Uses selenium webdriver (Firefox) to scrape multiple dynamic webpage tables 
