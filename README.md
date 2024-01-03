@@ -12,7 +12,7 @@ This project demonstrates a basic approach to scraping data from tables within a
 In console, 'pip install selenium' before running
   
 ## Usage
-Simply run main.py and the program will create and update individual csv files for interpretation
+Simply run main.py and the program will open up an instance of Firefox to crawl through webpages from the URL list, create and update individual csv files for interpretation
 ## Structure and Components
 - main.py: contains logic to initialize webdriver, scrape each page, and create/write to csv
 ## Detailed Functionality
